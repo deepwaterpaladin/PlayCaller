@@ -15,8 +15,7 @@
 
 ## High-level Goals
 
-- Identify defensive adjustments in response to following pre-snap actions:
-
+- Identify defensive adjustments in response to following pre-snap actions
   - pre-snap offensive player movements;
   - pre-snap offensive adjustments (audibles)
 
@@ -24,6 +23,5 @@
   - Can timeOffBlock metrics be used to influence where the ball should go? If one side of the D-line is taking more time to get off blocks, does that present an advantage for run plays that way?
 
 - Determine if there is a competitive advantage to 2-point plays/fourth down conversions
-  
   - Similar to how there is a deal of research regarding 2-point vs. 3-point shooting in the NBA.
   - Could there be a WAR equivalant in football – as there is in baseball.
