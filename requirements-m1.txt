@@ -1,0 +1,2 @@
+polars-lts-cpu==1.12.0
+scikit-learn==1.1.0
