@@ -6,7 +6,22 @@
 
 ## Week 1 (Nov 24 - 29)
 
-- Big Question 1 [INSERT BQ HERE]
+- Big Question 1 [How do defenses respond to offensive checkdowns?]
   
   - Data gathering [DATA NEEDED]
   - Develop hypothesis & null hyp
+
+- Big Question N [INSERT BQ HERE]
+  
+  - Data gathering [DATA NEEDED]
+  - Develop hypothesis & null hyp
+
+## Week 2 (Dec 1 - 7)
+
+## Week 3 (Nov 8 - 14)
+
+## Week 4 (Dec 15 - 21)
+
+## Week 5 (Dec 22 - 28)
+
+## Week 6 (Dec 29 - Jan 6)
