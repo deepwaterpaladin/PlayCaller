@@ -11,7 +11,7 @@
   - Data gathering [DATA NEEDED]
   - Develop hypothesis & null hyp
 
-- Big Question N [INSERT BQ HERE]
+- Big Question 2 [Which direction is the ball moving when a player is in motion?]
   
   - Data gathering [DATA NEEDED]
   - Develop hypothesis & null hyp
