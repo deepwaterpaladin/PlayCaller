@@ -18,6 +18,11 @@
 
 ## Week 2 (Dec 1 - 7)
 
+- Big Question 3 [What is the optimal defensive formation agianst a given offence package?]
+  
+  - Data gathering [DATA NEEDED]
+  - Develop hypothesis & null hyp
+
 ## Week 3 (Nov 8 - 14)
 
 ## Week 4 (Dec 15 - 21)
